@@ -1,0 +1,7 @@
+{
+    "imports": {
+       "oak": "https://deno.land/x/oak/mod.ts",
+       "MiddelwareFunc": "https://deno.land/x/abc@v1.0.0-rc2/mod.ts",
+       "MongoClient": "https://deno.land/x/mongo@v0.6.0/mod.ts"
+    }
+ }
